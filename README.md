@@ -197,6 +197,11 @@ Este trabajo fue más bien un proceso de prueba y error constante, ajustando pos
 **Aprendizajes obtenidos**
 Si no estás satisfecho con una entrega anterior y debes reutilizarla como opción, es importante que no gane la flojera, sino que te atrevas a hacer un nuevo proyecto que realmente te satisfaga y con el que quedes conforme. No importa cuánto tiempo te tome, lo importante es el resultado final y tu satisfacción con el trabajo.
 
+**Diagrama de flujo**
+
+
+
+
 
 
 
