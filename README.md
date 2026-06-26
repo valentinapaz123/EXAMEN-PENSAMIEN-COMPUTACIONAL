@@ -1,5 +1,5 @@
-# EXAMEN-PENSAMIEN-COMPUTACIONAL
-## Nombre del proyecto: Laberindo Bauhaus 
+# EXAMEN-PENSAMIENO-COMPUTACIONAL
+## Nombre del proyecto: Laberinto Bauhaus 
 
 ![ESTADOS](ESTADOS/ESTADO_0.jpeg) 
 
