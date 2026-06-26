@@ -7,7 +7,9 @@
 
 ![ESTADO](ESTADOS/ESTADO_2.jpeg) 
 
-[link](https://editor.p5js.org/Valentinaelizondo/sketches/pdjmkNkJb) 
+[editable](https://editor.p5js.org/Valentinaelizondo/sketches/pdjmkNkJb) 
+
+[publico](https://editor.p5js.org/Valentinaelizondo/full/pdjmkNkJb) 
 
 
 ## Autor/a: Valentina Elizondo Pizarro
