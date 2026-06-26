@@ -1,6 +1,14 @@
 # EXAMEN-PENSAMIEN-COMPUTACIONAL
 ## Nombre del proyecto: Laberindo Bauhaus 
 
+![ESTADOS](ESTADOS/ESTADO 0.jpeg) 
+
+![ESTADO](ESTADOS/ESTADO 1.jpeg) 
+
+
+
+
+
 ## Autor/a: Valentina Elizondo Pizarro
 *Descripción objetiva*
 
