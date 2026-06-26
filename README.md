@@ -230,7 +230,7 @@ Si no est√°s satisfecho con una entrega anterior y debes reutilizarla como opci√
 
 **Diagrama de flujo**
 
-![Diagrama](Diagrama/Examen_diagrama.jpg) 
+![Diagrama](Diagramadeflujo/diagramaexamen.jpg) 
 
 
 
