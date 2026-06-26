@@ -3,10 +3,11 @@
 
 ![ESTADOS](ESTADOS/ESTADO_0.jpeg) 
 
-![ESTADO](ESTADOS/ESTADO 1.jpeg) 
+![ESTADO](ESTADOS/ESTADO_1.jpeg) 
 
+![ESTADO](ESTADOS/ESTADO_2.jpeg) 
 
-
+[link](https://editor.p5js.org/Valentinaelizondo/sketches/pdjmkNkJb) 
 
 
 ## Autor/a: Valentina Elizondo Pizarro
@@ -83,6 +84,17 @@ Además, el proyecto también se inspira en videojuegos clásicos de laberintos 
 El proyecto está inspirado en la escuela de diseño Bauhaus, tomando como base elementos característicos como el uso de colores primarios, formas geométricas y composiciones modulares. El principal referente visual corresponde a una obra con una composición inspirada en la estética de la Bauhaus, específicamente relacionada con el famoso cartel de la exposición Bauhaus de 1923 en Weimar, el cual actualmente se encuentra disponible como impresión decorativa en tiendas como NiceWall en Chile.
 
 Además, el proyecto se inspira en videojuegos de laberintos sencillos para niños, como los que se encuentran en la página “juegosinfantilespum.com”, donde se presentan dinámicas simples de recorrido y resolución de laberintos, utilizando principalmente las teclas del computador y sin una alta complejidad en la interacción.
+
+**REFERENTES**
+
+![imagen](https://i.pinimg.com/736x/55/e0/dd/55e0ddad91e6d615d19f799db2f18e70.jpg) 
+
+Cuadro Bauhaus
+
+
+![imagen](https://cdn.pomu.es/files/game/img/17970/Maze_mobile@2x.webp) 
+
+Laberinto sencillo 
 
 **Principio de diseño explorado**
 El proyecto explora la composición modular inspirada en la Bauhaus, utilizando formas geométricas simples (cuadrados y círculos), colores primarios (rojo, azul, amarillo) y una organización en una grilla y laberinto. Estos elementos se integran en un laberinto de estructura simple. Además, la interactividad se incorpora mediante el desplazamiento del jugador con el teclado y una pantalla final en la que el tamaño y la forma de las figuras cambian según la posición del mouse, aportando dinamismo a la composición.
@@ -169,6 +181,8 @@ Principalmente, al inicio no me gustaba mi proyecto de la solemne anterior y me 
 Desde el comienzo pensé en hacer un juego, pero entre las distintas ideas opté por un laberinto sencillo, típico de la niñez, reutilizando el concepto de la escuela de diseño “Bauhaus”.
 En un inicio quería hacer un juego más largo, con distintos estados y música, pero tuve que replantearlo considerando el tiempo disponible para realizar el proyecto.
 También decidí utilizar las flechas del teclado como método de movimiento, ya que en mi niñez no podía utilizar las letras para jugar y siempre usaba las flechas, por lo que me pareció coherente mantener ese tipo de control en el juego.
+
+
 
 **Dificultades encontradas**
 Tuve varias dificultades porque no entendía bien cómo juntar todos los códigos entregados para este examen. Como empecé desde cero, tuve que pensar y repasar los códigos constantemente, ya que se me olvidaban cómo funcionaban o qué hacía cada parte.
