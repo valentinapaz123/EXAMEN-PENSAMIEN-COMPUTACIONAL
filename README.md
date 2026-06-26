@@ -182,6 +182,11 @@ Desde el comienzo pensé en hacer un juego, pero entre las distintas ideas opté
 En un inicio quería hacer un juego más largo, con distintos estados y música, pero tuve que replantearlo considerando el tiempo disponible para realizar el proyecto.
 También decidí utilizar las flechas del teclado como método de movimiento, ya que en mi niñez no podía utilizar las letras para jugar y siempre usaba las flechas, por lo que me pareció coherente mantener ese tipo de control en el juego.
 
+![proceso](proceso/bocetoideaorincipal.jpeg) 
+
+![proceso](proceso/proceso.jpeg) 
+
+![proceso](proceso/proceso1.jpeg) 
 
 
 **Dificultades encontradas**
